@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computeur science 
 - 💞️ I’m looking to collaborate on web project
 - 📫 You can reach me on hugostraseele.ohmycode@gmail.com or on https://www.instagram.com/straseele_hugo/
-- 😄 Pronouns: him
+- 😄 Pronouns: he / him
 - ⚡ Fun fact:
   - 🧪 Code Addict: I might spend too much time perfecting my CSS... but it's my art!
   - 🎯 Pixel Perfect: If a button is misaligned, I’ll fix it—even at 3 AM.
