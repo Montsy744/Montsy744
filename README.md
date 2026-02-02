@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Montsy744
+# 👋 Hi, I’m @Montsy744
 
 🎓 BUT Informatique – 2nd year
 💻 Web Developer (Front-oriented)
@@ -6,7 +6,7 @@
 
 ⸻
 
-##👀 About me
+## 👀 About me
 
 I’m a web development enthusiast who loves turning ideas into clean, functional, and visually polished interfaces.
 Currently sharpening my skills through personal projects, with a strong interest in front-end development, while expanding into back-end with Java.
@@ -15,27 +15,27 @@ I care a lot about details, structure, and code quality — because good UX star
 
 ⸻
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-###🌐 Front-end
+### 🌐 Front-end
 	•	HTML
 	•	CSS
 	•	JavaScript
 	•	React
 
-###⚙️ Back-end
+### ⚙️ Back-end
 	•	Java (learning & practicing)
 
-###🧰 Tools & Databases
+### 🧰 Tools & Databases
 	•	Git / GitHub
 	•	PostgreSQL
 	•	SQL
 
 ⸻
 
-##🚀 Featured Project
+## 🚀 Featured Project
 
-###🌍 Personal Portfolio
+### 🌍 Personal Portfolio
 
 👉 Live website: https://montsy744.github.io/portfolio
 
@@ -48,7 +48,7 @@ Designed and built to reflect both my personality and my attention to detail.
 
 ⸻
 
-##💞️ Collaboration
+## 💞️ Collaboration
 
 I’m open to collaborating on:
 	•	web projects
@@ -59,13 +59,13 @@ If you enjoy working with someone who cares about clean code and pixel-perfect U
 
 ⸻
 
-##📫 Contact me
+## 📫 Contact me
 	•	📧 Email: hugostraseele.ohmycode@gmail.com
 	•	📸 Instagram: https://www.instagram.com/straseele_hugo/
 
 ⸻
 
-##⚡ Fun fact — Story mode
+## ⚡ Fun fact — Story mode
 
 🧪 The CSS Ritual
 What starts as “just fixing a margin” often turns into a 2-hour journey of refining spacing, alignment, and animations…
