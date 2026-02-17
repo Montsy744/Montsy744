@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I’m @Montsy744<br><br>🎓 BUT Informatique – 2nd year<br>💻 Web Developer (Front-oriented)<br>🎯 Focused on personal projects & clean, meaningful code<br><br>⸻<br><br>## 👀 About me<br><br>I’m a web development enthusiast who loves turning ideas into clean, functional, and visually polished interfaces.<br>Currently sharpening my skills through personal projects, with a strong interest in front-end development, while expanding into back-end with Java.<br><br>I care a lot about details, structure, and code quality — because good UX starts with good code.<br>
+# 👋 Hi, I’m @Montsy744<br><br>🎓 BUT Informatique – 2nd year<br>💻 Web Developer (Front-oriented)<br>🎯 Focused on personal projects & clean, meaningful code<br><br>⸻<br><br> 👀 About me<br><br>I’m a web development enthusiast who loves turning ideas into clean, functional, and visually polished interfaces.<br>Currently sharpening my skills through personal projects, with a strong interest in front-end development, while expanding into back-end with Java.<br><br>I care a lot about details, structure, and code quality — because good UX starts with good code.<br>
 
 
 ## 🌐 Socials:
